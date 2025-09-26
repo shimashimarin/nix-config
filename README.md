@@ -1,2 +1,2 @@
-# nixos
-nixos config
+# nix-config
+nix config
